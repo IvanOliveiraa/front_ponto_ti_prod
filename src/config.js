@@ -1,3 +1,3 @@
-export default class Config{
-  static backend="http://192.168.100.37:8080"
+export default class Config {
+  static backend = "https://back-ponto-c8dm-git-master-ivanoliveiraa.vercel.app"
 }
